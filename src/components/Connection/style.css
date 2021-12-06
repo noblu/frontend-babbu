@@ -1,0 +1,9 @@
+.connect {
+}
+
+button {
+  height: 32px;
+  width: 129px;
+  border-radius: 5px;
+  background-color: #ffe000;
+}
